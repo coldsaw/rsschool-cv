@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://coldsaw.github.io/rsschool-cv/cv
+[CV](https://coldsaw.github.io/rsschool-cv/cv)
